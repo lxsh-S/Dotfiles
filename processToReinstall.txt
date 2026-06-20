@@ -1,0 +1,9 @@
+After reinstalling Arch
+
+Official repos:
+
+sudo pacman -S --needed - < pacman-packages.txt
+
+AUR (after installing yay):
+
+yay -S --needed - < aur-packages.txt

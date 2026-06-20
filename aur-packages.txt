@@ -1,0 +1,5 @@
+apple_cursor
+ttf-rubik-vf
+visual-studio-code-bin
+yay
+yay-debug
